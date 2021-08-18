@@ -42,3 +42,17 @@ personalMovieDB.movies[a] = b;
 personalMovieDB.movies[c] = d;
 
 console.log(personalMovieDB);
+console.log('----------------------------');
+
+let num = 48;
+
+// do {
+//     console.log(num);
+//     num++;
+// }
+// while (num < 55)
+
+for (let i = 1; i < 8; i++) {
+    console.log(num);
+    num++;
+}
